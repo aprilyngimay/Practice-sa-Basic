@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestTest</string>
+    <string name="et_enter_fname">Enter your first name</string>
+    <string name="tv_fname">Name:</string>
+    <string name="tv_lname">LastName:</string>
+    <string name="et_enter_lname">Enter your last name</string>
+    <string name="click_button">Click me !</string>
+    <string name="tv2_fname">Firstname:</string>
+    <string name="tv2_lname">Lastname:</string>
+</resources>
